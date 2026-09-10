@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Yunus Emre Abak 👋
 
-<!--
-**Apeiron-create/Apeiron-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Embedded Systems Engineering Student | Bare-Metal & ARM Cortex-M Architect**
 
-Here are some ideas to get you started:
+I am an engineering student dedicated to mastering the lowest levels of hardware-software integration. Currently transforming my workstation into a dedicated R&D lab to focus on system-level C programming, microcontroller architectures, and reliable embedded firmware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Core Arsenal & Tech Stack
+*   **Languages:** C (Bare-metal & Pointers), Python (Scripting & Automation)
+*   **Microcontrollers:** ARM Cortex-M (STM32), Arduino
+*   **Hardware Design:** Basic PCB Design (Altium Designer)
+*   **Ecosystem:** WSL2 (Ubuntu), GCC, Git, VS Code, Linux CLI
+
+### 🔭 Current Focus (Fall 2026)
+*   Deep diving into **C Fundamentals** (Memory management, Pointers, Structs)
+*   Mastering **STM32 Bare-Metal Programming** (Register-level control, Bitwise operations)
+*   Understanding Hardware-Software communication via standard protocols.
+
+### ⚡ Engineering Philosophy
+> *"No friction, complete offline capability, and system-level understanding over superficial coding."*
