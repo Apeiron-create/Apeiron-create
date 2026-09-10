@@ -1,6 +1,6 @@
 # Hi, I'm Yunus Emre Abak 👋
 
-**Embedded Systems Engineering Student | Bare-Metal & ARM Cortex-M Architect**
+**Embedded Systems Engineering Student | Embedded C & ARM Cortex-M
 
 I am an engineering student dedicated to mastering the lowest levels of hardware-software integration. Currently transforming my workstation into a dedicated R&D lab to focus on system-level C programming, microcontroller architectures, and reliable embedded firmware.
 
